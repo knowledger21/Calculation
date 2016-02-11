@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="numBtn">#455A64</color>
+    <color name="opraBtn">#263238</color>
+    <color name="equalBtn">#b71c1c</color>
+    <color name="textBtn">#ffffff</color>
+</resources>
